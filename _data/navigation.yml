@@ -1,25 +1,19 @@
 # Site navigation links
 
-- title: Tank Lab
-  url: /tank-lab/
+- title: Home
+  url: /home/
 
-- title: People
-  url: /people/
+- title: About the course
+  url: /about/
 
-- title: Research
-  url: /research/
+- title: How to enroll
+  url: /enroll/
 
-- title: News
-  url: /news/
+- title: Getting there
+  url: /travel/
 
-- title: Publications
-  url: https://scholar.google.com/citations?hl=en&user=47RNZ3MAAAAJ&sortby=pubdate
-
-- title: Teaching
-  url: /teaching/
-
-- title: Prospective Students
-  url: /prospective-students/
+- title: About the instructors
+  url: /instrctors/
   
 - title: Contact
   url: /contact/
