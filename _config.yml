@@ -5,8 +5,8 @@ locale: en_US
 description: BIOL 460/560 at the University of Idaho McCall Field Campus
 logo: AFB_logo_white_circle.jpg
 search: true
-#url: http://localhost:4000
-url: http://davetank.github.io/AFB
+url: http://localhost:4000
+#url: http://davetank.github.io/AFB
 
 # Jekyll configuration
 
